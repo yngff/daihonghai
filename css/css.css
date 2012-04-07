@@ -1,0 +1,233 @@
+﻿body {
+	font-family: "新宋体";
+	font-size: 12px;
+	color: #6d6d6d;
+	text-decoration: none;
+	margin: 0px;
+	background-color: #08295b;
+}
+a {
+	color: #6D6D6D;
+	text-decoration: none;
+}
+
+.header_bj {
+	background-image: url(../images/index_05.gif);
+	background-repeat: repeat-x;
+	background-color: #FFFFFF;
+}
+.header_font_01 {
+	color: #FF0000;
+	text-decoration: none;
+}
+.header_font_01 a {
+	color: #FF0000;
+	text-decoration: none;
+}
+.sidebar1 {
+	background-image: url(../images/index_20.gif);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	background-color: #FFFFFF;
+}
+.sidebar_font_01 {
+	font-family: "新宋体";
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	letter-spacing: 2px;
+	line-height: 25px;
+}
+.sidebar_font_02 {
+	font-family: Verdana, Arial, Helvetica, sans-serif, "新宋体", "宋体";
+	font-size: 12px;
+	color: #999999;
+	text-decoration: none;
+}
+.sidebar_font_03 {
+	font-family: "新宋体";
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+}
+.sidebar_font_03 a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.sidebar_font_04 {
+	font-family: "新宋体";
+	line-height: 22px;
+	text-decoration: none;
+}
+
+.sidebar_line {
+	height: 14px;
+	border: 1px solid #a8a8a8;
+}
+.column_line {
+	background-image: url(../images/index_24.gif);
+	background-repeat: repeat-x;
+}
+.column_font_01 {
+	font-family: "新宋体";
+	font-size: 14px;
+	font-weight: bold;
+	color: #d4a308;
+	text-decoration: none;
+	line-height: 25px;
+}
+.column_font_01 a {
+	text-decoration: none;
+	color: #d4a308;
+}
+
+.column_font_02 {
+	line-height: 18px;
+}
+.column_font_03 {
+	font-family: "Times New Roman", Times, serif;
+	color: #C8C8C8;
+	text-decoration: none;
+}
+.sindebar2 {
+	background-image: url(../images/index_39.gif);
+	background-repeat: repeat-x;
+}
+.sindebar_bj {
+	background-attachment: fixed;
+	background-image: url(../images/index_55.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	line-height: 20px;
+}
+.nav1 {
+	background-image: url(../images/index1_04.gif);
+	background-repeat: repeat-x;
+	background-position: center;
+}
+.nav_pic {
+	background-attachment: fixed;
+	background-image: url(../images/index_55_1.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+.nav_line {
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #e7e7e7;
+	border-bottom-color: #e7e7e7;
+	border-left-color: #e7e7e7;
+}
+
+
+.container_bj {
+	background-image: url(../images/index_55.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.container_font_01 {
+	font-family: "新宋体";
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+.container_font_02 {
+	font-family: "新宋体";
+	font-size: 14px;
+	color: #CC0000;
+	text-decoration: none;
+}
+.container_font_02 a {
+	color: #CC0000;
+	text-decoration: none;
+}
+
+
+
+#zi {
+	WIDTH: 600px;
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+}
+#zi LI {
+	PADDING-LEFT: 15px;
+	COLOR: #6D6D6D;
+	background-image: url(../images/icon_03.gif);
+	background-repeat: no-repeat;
+	background-position: 5px;
+	list-style-type: none;
+	margin-top: 13px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+	text-decoration: none;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #BFBFBF;
+	line-height: 20px;
+	text-indent: 12px;
+}
+#zi LI A {
+	COLOR: #6D6D6D;
+	text-decoration: none;
+}
+#zi LI A:hover {
+	COLOR: #000000
+}
+#zi1 {
+	WIDTH: 550px;
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+}
+#zi1 LI {
+	PADDING-LEFT: 20px;
+	COLOR: #6D6D6D;
+	background-image: url(../images/icon_03.gif);
+	background-repeat: no-repeat;
+	background-position: 5px;
+	list-style-type: none;
+	margin-top: 13px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	text-decoration: none;
+	line-height: 18px;
+	text-indent: 12px;
+}
+#zi1 LI A {
+	COLOR: #6D6D6D;
+	text-decoration: none;
+}
+#zi1 LI A:hover {
+	COLOR: #000000
+}
+.input1 {
+	border: 1px solid #cccccc;
+}
+.nav_font {
+	font-family: "新宋体";
+	color: #176197;
+	text-decoration: none;
+}
+.footer_bj {
+	background-image: url(../images/index_01.gif);
+	background-repeat: repeat-x;
+}
+.footer_zt {
+	font-family: Verdana, Arial, Helvetica, sans-serif, "新宋体", "宋体";
+	color: #999999;
+	text-decoration: none;
+}
+.footer_zt a {
+	color: #999999;
+	text-decoration: none;
+}
